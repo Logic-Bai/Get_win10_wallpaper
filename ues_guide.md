@@ -11,7 +11,7 @@ A C language program for get win10 local wallpaper
 
 ## 使用技巧
 用户可以将**get_win10_wallpaper.exe**的快捷方式放置在
-  
-  C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
-  
+```
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+```
 文件夹下，这样每次开机启动后**get_win10_wallpaper.exe**就会自动运行获取锁屏壁纸
